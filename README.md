@@ -1,3 +1,3 @@
 # hello-world
 for every beginning...
-  there is and equal ending.
+  there is an ending.
